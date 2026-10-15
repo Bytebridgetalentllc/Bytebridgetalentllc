@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://bytebridgetalentllc.github.io/assets/images/bytebridge-logo.png" alt="ByteBridge Talent LLC logo" width="140" />
+<img src="./bytebridge-logo.png" alt="ByteBridge Talent LLC logo" width="140" />
 
-# ByteBridge Talent LLC
+<img src="./banner.svg" alt="ByteBridge Talent LLC, engineering talent for cloud, DevOps and modern software teams" width="100%" />
 
-**Engineering talent for cloud, DevOps and modern software teams.**
-
-[![Blog](https://img.shields.io/badge/Blog-bytebridgetalentllc.github.io-0A2540?style=for-the-badge)](https://bytebridgetalentllc.github.io/)
-[![Website](https://img.shields.io/badge/Website-bytebridgetalent.com-0FA3B1?style=for-the-badge)](https://bytebridgetalent.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-team__bytebridgetalentllc-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/team_bytebridgetalentllc)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bytebridgetalentllc.hashnode.dev)
-[![Medium](https://img.shields.io/badge/Medium-@bytebridgetalentllc-000000?style=for-the-badge&logo=medium)](https://medium.com/@bytebridgetalentllc)
+[![Blog](https://img.shields.io/badge/Blog-bytebridgetalentllc.github.io-1b0052?style=for-the-badge)](https://bytebridgetalentllc.github.io/)
+[![Website](https://img.shields.io/badge/Website-bytebridgetalent.com-6800ce?style=for-the-badge)](https://bytebridgetalent.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-team__bytebridgetalentllc-1b0052?style=for-the-badge&logo=devdotto)](https://dev.to/team_bytebridgetalentllc)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-9831ff?style=for-the-badge&logo=hashnode&logoColor=white)](https://bytebridgetalentllc.hashnode.dev)
+[![Medium](https://img.shields.io/badge/Medium-@bytebridgetalentllc-6800ce?style=for-the-badge&logo=medium)](https://medium.com/@bytebridgetalentllc)
 
 </div>
 
