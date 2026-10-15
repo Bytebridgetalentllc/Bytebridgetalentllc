@@ -26,7 +26,21 @@
 
 ## 🏢 About us
 
-ByteBridge Talent LLC was founded in February 2025 and is based in Grand Island, Nebraska. We connect engineering teams with technology professionals, and we share what we learn along the way on our team blog.
+ByteBridge Talent LLC is a technology talent and IT staffing company headquartered in Grand Island, Nebraska. Founded in February 2025, we help engineering organizations add skilled people quickly, without slowing down delivery or lowering the bar on quality.
+
+Our work sits where hiring meets engineering. We source, screen and place cloud engineers, DevOps and platform specialists, data engineers, and backend, frontend and full-stack developers. Before a candidate reaches a client, they go through technical screening built around the client's actual stack, so teams spend their interview time on the strongest fits.
+
+### 🤝 Direct clients
+
+We work directly with client organizations rather than through layers of intermediaries. Our anchor direct client is **Medica Health Plans**, where ByteBridge Talent LLC is a direct vendor and has placed more than 60 technology professionals over roughly two years across software development, cloud and data roles.
+
+### 🔄 How we engage
+
+| Model | How it works |
+|---|---|
+| **Contract** | Engineers join your team for a defined project or period |
+| **Contract-to-hire** | A trial period of a few months, then conversion to a full-time employee |
+| **Direct hire** | We find the candidate and you hire them full-time from day one |
 
 ## 📝 Latest from the blog
 
