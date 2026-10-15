@@ -24,23 +24,47 @@
 
 **Engagement models:** contract · contract-to-hire · direct hire
 
-## 🏢 About us
+## 🏢 About ByteBridge Talent LLC
 
-ByteBridge Talent LLC is a technology talent and IT staffing company headquartered in Grand Island, Nebraska. Founded in February 2025, we help engineering organizations add skilled people quickly, without slowing down delivery or lowering the bar on quality.
+<p align="center">
+  <img src="./bytebridge-logo.png" alt="ByteBridge Talent LLC logo" height="72" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./e-verify-logo.png" alt="E-Verify logo" height="72" />
+</p>
+<p align="center"><b>ByteBridge Talent LLC is an E-Verify employer.</b></p>
 
-Our work sits where hiring meets engineering. We source, screen and place cloud engineers, DevOps and platform specialists, data engineers, and backend, frontend and full-stack developers. Before a candidate reaches a client, they go through technical screening built around the client's actual stack, so teams spend their interview time on the strongest fits.
+ByteBridge Talent LLC is a technology talent and IT staffing company headquartered in Grand Island, Nebraska. We launched in February 2025 with a simple goal: give engineering teams reliable access to skilled technology professionals, and make every placement count.
+
+Today a team of 16 handles sourcing, technical screening, onboarding and ongoing account support. We focus on technology roles, so the people evaluating candidates understand the work those candidates will do.
+
+### 🛠️ Services in detail
+
+- **IT staff augmentation:** Experienced engineers join your existing teams and work inside your tools, sprints and code review process. This adds capacity without the delay of a full hiring cycle.
+- **Cloud and DevOps engineering:** Specialists in CI/CD pipelines, infrastructure as code, containers and orchestration, monitoring, and cloud cost and security hygiene.
+- **Software development talent:** Backend, frontend and full-stack developers, plus data engineers, for product and platform teams.
+- **Technical screening:** We assess each candidate against the client's actual stack and role before submitting them, so interview time goes to the strongest fits.
 
 ### 🤝 Direct clients
 
-We work directly with client organizations rather than through layers of intermediaries. Our anchor direct client is **Medica Health Plans**, where ByteBridge Talent LLC is a direct vendor and has placed more than 60 technology professionals over roughly two years across software development, cloud and data roles.
+We work directly with client organizations, without layers of intermediaries. Our anchor direct client is **Medica Health Plans**. ByteBridge Talent LLC is a direct vendor to Medica and has placed more than 60 technology professionals there over about two years, across software development, cloud and data roles.
 
-### 🔄 How we engage
+### 🔄 Engagement models
 
 | Model | How it works |
 |---|---|
-| **Contract** | Engineers join your team for a defined project or period |
-| **Contract-to-hire** | A trial period of a few months, then conversion to a full-time employee |
-| **Direct hire** | We find the candidate and you hire them full-time from day one |
+| **Contract** | Engineers join for a defined project or period |
+| **Contract-to-hire** | A few months on contract, then conversion to a full-time employee |
+| **Direct hire** | We find the candidate, and you hire them full-time from day one |
+
+### 📍 Company facts
+
+| | |
+|---|---|
+| **Legal name** | ByteBridge Talent LLC |
+| **Founded** | February 2025 |
+| **Headquarters** | Grand Island, Nebraska, USA |
+| **Team** | 16 people |
+| **Website** | [bytebridgetalent.com](https://bytebridgetalent.com) |
 
 ## 📝 Latest from the blog
 
